@@ -10,7 +10,7 @@ Then used the summary function in order to determine the p-value and the r-squar
 
 From these results we can answer the following questions:
 - Which variables/coefficients provided a non-random amount of variance to the mpg values of the dataset?
-  - vehivle_weight, spoiler_angle, and AWD.
+  - vehicle_weight, spoiler_angle, and AWD.
 - Is the slope of the linear model considered to be zero? Why or why not?
   - P-value is 5.35e-11 which is smaller than the significance level of 0.05% which means the slope of the linear model is not zero.
 - Does the linear model predict mpg of MechaCar prototypes effectively? Why or why not?
